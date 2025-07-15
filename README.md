@@ -1,0 +1,11 @@
+# kütüphaneler
+- @reduxjs/toolkit
+- react-router-dom
+- react-leaflet
+- leaflet-rotatedmarker
+- react-paginate
+- react-redux
+- bootstrap
+- axios
+- leaflet
+- @splidejs/react-splide# FlightRadar
