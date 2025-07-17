@@ -12,7 +12,7 @@ A real-time flight tracking application inspired by FlightRadar. Aircraft positi
 - ⚙️ Global state management with React Redux
 - 💬 Multi-page routing with React Router
 - 🎨 Responsive UI design using Bootstrap
-- 📡 Real-time data fetching (e.g., OpenSky API)
+- 📡 Real-time data fetching 
 
 ---
 
